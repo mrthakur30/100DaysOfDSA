@@ -10,9 +10,6 @@
 
 # ⭐ 100DaysOfDSA 
 
-## Sections
-
-- [LeetCode](#leetcode)
 
 ## LeetCode
 <table> 
